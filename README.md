@@ -3,6 +3,9 @@
 </p>
 
 <div align="center">
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=2500&pause=50&color=D2A306&center=true&vCenter=true&width=500&lines=I'm+Nikita+Makarenko;Welcome+to+My+GitHub+Profile;Let's+connect!;;Hardworking+and+Ambitious;Business+and+IT+Lover" alt="Typing SVG" /></a>
+</p>
 
 # Nikita Makarenko
 ### IT Project Manager | AI/ML & Fintech | B2B Automation
@@ -91,13 +94,6 @@ Project Manager с 5+ годами опыта в управлении **AI/ML**,
 
 ---
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Turning+Chaos+Into+System;Driving+Fintech+%26+AI+Projects+to+Production;5%2B+Years+in+IT+Management;Agile+%7C+Scrum+%7C+Waterfall+%7C+Kanban" alt="Typing SVG" />
-  </a>
+<p align = "center">
+<img src = "https://raw.githubusercontent.com/NikMakPak/NikMakPak/66e2bc0f0099be66bf5829677222267367f75238/github_snake_history.svg?" alt = "My graph history snake game"/>
 </p>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikMakPak&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
