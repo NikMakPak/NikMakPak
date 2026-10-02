@@ -33,7 +33,7 @@
 ### 🔭 Right now
 
 - Driving AI adoption as **AI Implementation Graduate Assistant** @ University of New Haven — a RAG agent now handles 140 admissions emails/week under FERPA
-- Building **[Voqual AI](https://github.com/NikMakPak)**, a real-time voice agent (LiveKit + Claude + ElevenLabs) that runs full conversations solo, no human on the line
+- Building **[Voqual AI](https://govoqual.com/)**, a real-time voice agent (LiveKit + Claude + ElevenLabs) that runs full conversations solo, no human on the line
 - Going deeper on **MCP (Model Context Protocol)** and multi-agent orchestration
 - 📫 Reach me at **imakarenkonp@gmail.com**
 
